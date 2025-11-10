@@ -8,7 +8,7 @@ It provides structured programming tutorials, real-world project insights, and s
 ## 🖼️ Project Screenshots  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c697ab50-dc13-49e1-b777-23fb500ee801" width="800"/>
+  <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-11-10 210058.png" width="800"/>
   <br><em>📌 Dashboard Overview</em>
 </p>
 
